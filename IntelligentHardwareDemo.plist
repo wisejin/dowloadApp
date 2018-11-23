@@ -31,13 +31,13 @@ https://raw.githubusercontent.com/wisejin/dowloadApp/master/IntelligentHardwareD
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.iBenew.Performance</string>
+<string>Lengyixiao.IntelligentHardwareDemo</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>BRAVAT-一起赛业绩</string>
+<string>智能硬件</string>
 </dict>
 </dict>
 </array>
